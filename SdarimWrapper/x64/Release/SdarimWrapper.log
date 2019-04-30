@@ -1,0 +1,26 @@
+﻿  SdarimLibrary.cpp
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(20): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::BooksNames' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(39): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::Result' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(56): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::SdarimException' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(62): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::NumOfChaptersException' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(67): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::NumOfPhraseException' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(72): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::BookException' when no variable is declared
+d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(229): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::SdarimHelper' when no variable is declared
+SdarimLibrary.cpp(132): warning C4273: 'SdarimWrapper::pDictionary': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(75): note: see previous definition of 'pDictionary'
+SdarimLibrary.cpp(176): warning C4835: 'SdarimWrapper::pDictionary': the initializer for exported data will not be run until managed code is first executed in the host assembly
+SdarimLibrary.cpp(177): warning C4273: 'SdarimWrapper::sDictionary': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(74): note: see previous definition of 'sDictionary'
+SdarimLibrary.cpp(222): warning C4835: 'SdarimWrapper::sDictionary': the initializer for exported data will not be run until managed code is first executed in the host assembly
+SdarimLibrary.cpp(224): warning C4273: 'SdarimWrapper::change': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(43): note: see previous definition of 'change'
+SdarimLibrary.cpp(317): warning C4273: 'SdarimWrapper::bookStartAt': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(83): note: see previous definition of 'bookStartAt'
+SdarimLibrary.cpp(356): warning C4273: 'SdarimWrapper::bookEndAt': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(88): note: see previous definition of 'bookEndAt'
+SdarimLibrary.cpp(725): warning C4273: 'SdarimWrapper::intToOtiyot': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(77): note: see previous definition of 'intToOtiyot'
+SdarimLibrary.cpp(804): warning C4273: 'SdarimWrapper::otiyotToint': inconsistent dll linkage
+  d:\google drive\visual studio 2017\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(78): note: see previous definition of 'otiyotToint'
+     Creating library D:\Google Drive\Visual Studio 2017\SdarimWrapper\x64\Release\SdarimWrapper.lib and object D:\Google Drive\Visual Studio 2017\SdarimWrapper\x64\Release\SdarimWrapper.exp
+  SdarimWrapper.vcxproj -> D:\Google Drive\Visual Studio 2017\SdarimWrapper\x64\Release\SdarimWrapper.dll

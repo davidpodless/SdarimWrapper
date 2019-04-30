@@ -1,0 +1,26 @@
+﻿  SdarimLibrary.cpp
+SdarimLibrary.cpp(4): error C2855: command-line option '/source-charset' inconsistent with precompiled header
+SdarimLibrary.cpp(4): error C2855: command-line option '/execution-charset' inconsistent with precompiled header
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(19): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::BooksNames' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(38): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::Result' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(55): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::SdarimException' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(61): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::NumOfChaptersException' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(66): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::NumOfPhraseException' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(71): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::BookException' when no variable is declared
+d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(209): warning C4091: 'extern __declspec(dllimport)': ignored on left of 'SdarimWrapper::SdarimHelper' when no variable is declared
+SdarimLibrary.cpp(132): warning C4273: 'SdarimWrapper::pDictionary': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(74): note: see previous definition of 'pDictionary'
+SdarimLibrary.cpp(176): warning C4835: 'SdarimWrapper::pDictionary': the initializer for exported data will not be run until managed code is first executed in the host assembly
+SdarimLibrary.cpp(177): warning C4273: 'SdarimWrapper::sDictionary': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(73): note: see previous definition of 'sDictionary'
+SdarimLibrary.cpp(222): warning C4835: 'SdarimWrapper::sDictionary': the initializer for exported data will not be run until managed code is first executed in the host assembly
+SdarimLibrary.cpp(224): warning C4273: 'SdarimWrapper::change': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(42): note: see previous definition of 'change'
+SdarimLibrary.cpp(315): warning C4273: 'SdarimWrapper::bookStartAt': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(82): note: see previous definition of 'bookStartAt'
+SdarimLibrary.cpp(354): warning C4273: 'SdarimWrapper::bookEndAt': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(87): note: see previous definition of 'bookEndAt'
+SdarimLibrary.cpp(720): warning C4273: 'SdarimWrapper::intToOtiyot': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(76): note: see previous definition of 'intToOtiyot'
+SdarimLibrary.cpp(799): warning C4273: 'SdarimWrapper::otiyotToint': inconsistent dll linkage
+  d:\google drive\c++\testsfordad\visual\sdarimwrapper\sdarimwrapper\SdarimLibrary.h(77): note: see previous definition of 'otiyotToint'
